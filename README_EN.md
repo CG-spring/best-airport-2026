@@ -1,7 +1,7 @@
-# Best Airport Recommendations 2024
+# Best Airport Recommendations 2026
 
 [![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-blue.svg)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/CG-spring/best-airport-2024.svg?style=flat-square)](https://github.com/CG-spring/best-airport-2024/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/CG-spring/best-airport-2026.svg?style=flat-square)](https://github.com/CG-spring/best-airport-2026/stargazers)
 
 > Top 5 VPN services for China - Comprehensive speed, stability and price comparison
 > 
@@ -15,8 +15,8 @@
 
 | Rank | Airport | Score | Price | Rating |
 |------|---------|-------|-------|--------|
-| 🥇 1 | ClashVIP | 9.8/10 | $2.5/mo | ⭐⭐⭐⭐⭐ |
-| 🥈 2 | ClashHub | 9.5/10 | $3.5/mo | ⭐⭐⭐⭐⭐ |
+| 🥇 1 | ClashVIP | 9.8/10 | $2.5/mo | ⭐⭐⭐⭐�?|
+| 🥈 2 | ClashHub | 9.5/10 | $3.5/mo | ⭐⭐⭐⭐�?|
 | 🥉 3 | CFW Official | 9.2/10 | $4.5/mo | ⭐⭐⭐⭐ |
 | 4 | Nav Site | 9.0/10 | Free | ⭐⭐⭐⭐ |
 | 5 | Community | 8.8/10 | Free | ⭐⭐⭐⭐ |
@@ -37,10 +37,10 @@
 
 | Platform | ClashVIP | ClashHub | CFW Official |
 |----------|----------|----------|--------------|
-| Netflix | ✅ | ✅ | ✅ |
-| YouTube | ✅ | ✅ | ✅ |
-| Disney+ | ✅ | ✅ | ✅ |
-| ChatGPT | ✅ | ✅ | ✅ |
+| Netflix | �?| �?| �?|
+| YouTube | �?| �?| �?|
+| Disney+ | �?| �?| �?|
+| ChatGPT | �?| �?| �?|
 
 ---
 
