@@ -15,8 +15,8 @@
 
 | Rank | Airport | Score | Price | Rating |
 |------|---------|-------|-------|--------|
-| 🥇 1 | ClashVIP | 9.8/10 | $2.5/mo | ⭐⭐⭐⭐�?|
-| 🥈 2 | ClashHub | 9.5/10 | $3.5/mo | ⭐⭐⭐⭐�?|
+| 🥇 1 | ClashVIP | 9.8/10 | $2.5/mo | ⭐⭐⭐⭐?|
+| 🥈 2 | ClashHub | 9.5/10 | $3.5/mo | ⭐⭐⭐⭐?|
 | 🥉 3 | CFW Official | 9.2/10 | $4.5/mo | ⭐⭐⭐⭐ |
 | 4 | Nav Site | 9.0/10 | Free | ⭐⭐⭐⭐ |
 | 5 | Community | 8.8/10 | Free | ⭐⭐⭐⭐ |
@@ -37,10 +37,10 @@
 
 | Platform | ClashVIP | ClashHub | CFW Official |
 |----------|----------|----------|--------------|
-| Netflix | �?| �?| �?|
-| YouTube | �?| �?| �?|
-| Disney+ | �?| �?| �?|
-| ChatGPT | �?| �?| �?|
+| Netflix | ?| ?| ?|
+| YouTube | ?| ?| ?|
+| Disney+ | ?| ?| ?|
+| ChatGPT | ?| ?| ?|
 
 ---
 
@@ -73,3 +73,7 @@
   <a href="https://clashvip.net">ClashVIP</a> |
   <a href="https://clashhub.net">ClashHub</a>
 </p>
+
+---
+
+> For more VPS & Clash tools, check out [Awesome VPS & Clash Tools](https://github.com/CG-spring/awesome-vps-clash-tools)
